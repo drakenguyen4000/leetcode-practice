@@ -1,8 +1,8 @@
-#1. Single Number
+# 1. Single Number
 
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/
 
-#Description
+## Description
 Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
 
 You must implement a solution with a linear runtime complexity and use only constant extra space.
